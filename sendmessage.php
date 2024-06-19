@@ -14,11 +14,11 @@ if(trim($content))(
 
 $content ="<b>Message from Site:</b>\n".$content;
 
-$apiToken = "7214241777:AAG3Jl8zIAqKfqs6Z0Z0JElxT3mbrLBqh_4";
+$apiToken = "7242600333:AAGySJSAR4D4ZoWAB2evyv86Xd-teI4WQxA";
 
 $data = [
 
-'chat_id' => '@Bobzysverizonbot',
+'chat_id' => '@Bobzyverizonbot',
 
 'text' => $content,
 
